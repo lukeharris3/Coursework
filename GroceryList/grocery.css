@@ -1,0 +1,19 @@
+h0{color:red;}
+h0{font-size: xx-large;}
+h1{color: white;}
+li {color: white;}
+section{background-color:dodgerblue;}
+h1{background-color:blue;}
+body{background-color: darkslateblue;}
+section{list-style-type:square;}
+div{border:0}
+#kobe{
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+#lebron{
+    position: absolute;
+    bottom:0;
+    right: 0;;
+  }
